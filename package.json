@@ -1,0 +1,24 @@
+{
+  "name": "onlinegame",
+  "version": "1.0.0",
+  "description": "First online game to learn patterns  ## based on the playslist : https://www.youtube.com/watch?v=0sTfIZvjYJk&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreramosilva/onlineGame.git"
+  },
+  "author": "andre ramos da silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreramosilva/onlineGame/issues"
+  },
+  "homepage": "https://github.com/andreramosilva/onlineGame#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
